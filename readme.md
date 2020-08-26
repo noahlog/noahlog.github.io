@@ -8,7 +8,7 @@
   >> 耗时10年，包涵四个阶段。包含：人工智能，以及人工智能前期的各项准备工作。无论后面计划的名字怎么改都是诺亚Noah计划，都开始于2020年7月。结束于2036年7月。
 
 > ### Image 图像
-  ![dg1nl4.th.png](https://s1.ax1x.com/2020/08/25/dg1nl4.th.png)![dRHFhQ.png](https://s1.ax1x.com/2020/08/26/dRHFhQ.png)
+  ![dg1nl4.th.png](https://s1.ax1x.com/2020/08/25/dg1nl4.th.png)[![dRHFhQ.th.png](https://s1.ax1x.com/2020/08/26/dRHFhQ.th.png)]
 
 ---
 ## Noah basic I 
