@@ -9,6 +9,7 @@
 
 > ### Image 图像
   ![dg1nl4.th.png](https://s1.ax1x.com/2020/08/25/dg1nl4.th.png)
+
 ---
 ## Noah basic I 
 > 将所学知识转化为Noah basic的基本部分，同时进行其他创作。
