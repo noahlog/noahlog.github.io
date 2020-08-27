@@ -33,12 +33,18 @@
 >> Noah日志页创建
 
 > 2020-8-27
->> - "leone_sxt 0.0.1" Leone手写体0.0.1 制作
->> - 开源地址 [₪↗](https://github.com/noahlog/noahlog.github.io/tree/master/ttf)
+>> "leone_sxt 0.0.1" Leone手写体0.0.1 制作
+开源地址 [₪↗](https://github.com/noahlog/noahlog.github.io/tree/master/ttf)
 
 > year-month-day
->> - text1
->> - text2
+>> text
 
 ---
-
+```mermaid
+graph LR
+A[方形] -->B(圆角)
+    B --> C{条件a}
+    C -->|a=1| D[结果1]
+    C -->|a=2| E[结果2]
+    F[横向流程图]
+```
