@@ -11,16 +11,16 @@
   ![dg1nl4.th.png](https://s1.ax1x.com/2020/08/25/dg1nl4.th.png)![dRHFhQ.th.png](https://s1.ax1x.com/2020/08/26/dRHFhQ.th.png)
 
 ---
-## Noah basic I 
+## Noah basic Ⅰ 
 > 将所学知识转化为Noah basic的基本部分，同时进行其他创作。
 
-## Noah box II
+## Noah box Ⅱ
 > text
 
-## Noah smart III
+## Noah smart Ⅲ
 > text
 
-## Noah Ark VI
+## Noah Ark Ⅳ
 > text
 
 ---
@@ -31,6 +31,10 @@
 
 > 2020-8-25
 >> Noah日志页创建
+
+> 2020-8-27
+>> "leone_sxt 0.0.1" Leone手写体0.0.1 制作
+>> 开源地址 [₪↗](https://github.com/noahlog/noahlog.github.io/tree/master/ttf)
 
 > year-month-day
 >> text
