@@ -34,7 +34,7 @@
 
 > 2020-8-27
 >> "leone_sxt 0.0.1" Leone手写体0.0.1 制作
->> 开源地址 [₪↗](https://github.com/noahlog/noahlog.github.io/tree/master/ttf)
+开源地址 [₪↗](https://github.com/noahlog/noahlog.github.io/tree/master/ttf)
 
 > year-month-day
 >> text
